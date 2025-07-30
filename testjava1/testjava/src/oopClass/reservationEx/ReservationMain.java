@@ -1,4 +1,4 @@
-package oopClass.sec10;
+package oopClass.reservationEx;
 
 public class ReservationMain {
     public static void main(String[] args) {

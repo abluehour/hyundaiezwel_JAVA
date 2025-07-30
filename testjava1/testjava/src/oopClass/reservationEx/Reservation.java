@@ -1,4 +1,6 @@
-package oopClass.sec10;
+package oopClass.reservationEx;
+
+
 
 public class Reservation {
     private String flightNumber; // 항공편 번호
