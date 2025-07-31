@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e520d18-60ad-4b4f-84c3-1e8c678975d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec01/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec01/Ismartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec01/SamsungPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec01/SmartPhonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec02/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec02/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec02/RemoteControlMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec02/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec03/Isearchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec03/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec03/SmartRemoteControlMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec03/SmartTelevision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec04/ImplementationC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec04/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec04/InterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec04/InterfaceC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/inerfacepkg/sec04/MultiExtendsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/partTimePk/PartTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/partTimePk/PartTimeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/partTimePk/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec08/MyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec08/SportsCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec09/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec09/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec09/ParentChildMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec10/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec10/AnimalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec10/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec10/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec11/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec11/CatMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec11/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec12/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec12/DrawingObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec12/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec12/LineMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec12/Rect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testjava1/testjava/out/production/testjava/oopClass/sec07/Constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/testjava1/testjava/out/production/testjava/oopClass/sec07/Constructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testjava1/testjava/out/production/testjava/oopInheritance/sec07/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/testjava1/testjava/out/production/testjava/oopInheritance/sec07/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testjava1/testjava/src/oopClass/sec07/Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopClass/sec07/Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec07/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/testjava1/testjava/src/oopInheritance/sec07/Car.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="30dTHCvVAEGZnNk9uZWLSMGG9Dr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e520d18-60ad-4b4f-84c3-1e8c678975d9" name="Changes" comment="" />
+      <created>1753956362070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753956362070</updated>
+      <workItem from="1753956362429" duration="8000" />
+    </task>
+    <servers />
+  </component>
+</project>

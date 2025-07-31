@@ -5,7 +5,7 @@ public class Constructor {
     private int x;
     private int y;
 
-    // 생성자 : 클래스 이름과 동일한 메소드, 반환타임 ㅇ벗음
+    // 생성자 : 클래스 이름과 동일한 메소드, 반환타임 없음
     // 객체 생성 될때 한번만 호출 가능
     // 생성자 역할 : 멤버변수 값 초기화
     // 명시적 생성자가 구현되었으므로 디폴트 생성자(컴파일러가 생성하는)는 구현하지 않는다
@@ -21,6 +21,5 @@ public class Constructor {
 
 
     public void Show() {
-        System.out.println("x: "+ x);
-    }
+        System.out.println("x: "+ x);}
 }
