@@ -1,5 +1,7 @@
 package inerfacepkg.sec03;
 
+//import inerfacepkg.sec02.RemoteControl; //코드 복사에 의해 자동 삽입 될 수 있음
+
 public class SmartTelevision implements Isearchable, RemoteControl {
     private int volume; //인스턴스 멤버필드
 
